@@ -1,0 +1,10 @@
+Testsuite: rent.TenantTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 1.779 sec
+------------- Standard Output ---------------
+--Output from testConstraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testConstraints--
+------------- ---------------- ---------------
+
+Testcase: testConstraints took 1.591 sec

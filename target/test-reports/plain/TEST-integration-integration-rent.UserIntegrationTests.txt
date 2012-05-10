@@ -1,0 +1,22 @@
+Testsuite: rent.UserIntegrationTests
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.125 sec
+------------- Standard Output ---------------
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testIncorrectSave--
+--Output from testIncorrectSaveCorrected--
+--Output from testSave--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testIncorrectSave--
+--Output from testIncorrectSaveCorrected--
+--Output from testSave--
+------------- ---------------- ---------------
+
+Testcase: testSaveAndUpdate took 0.047 sec
+Testcase: testSaveThenDelete took 0.015 sec
+Testcase: testIncorrectSave took 0.032 sec
+Testcase: testIncorrectSaveCorrected took 0.015 sec
+Testcase: testSave took 0.016 sec

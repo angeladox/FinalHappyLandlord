@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Angela-PC" name="rent.PropertyTests" tests="1" time="2.217" timestamp="2012-05-08T19:50:34">
+  <properties />
+  <testcase classname="rent.PropertyTests" name="testConstraints" time="1.952" />
+  <system-out><![CDATA[--Output from testConstraints--
+]]></system-out>
+  <system-err><![CDATA[--Output from testConstraints--
+]]></system-err>
+</testsuite>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite errors="0" failures="0" hostname="Angela-PC" name="rent.UnitIntegrationTests" tests="5" time="0.859" timestamp="2012-05-08T19:51:07">
+  <properties />
+  <testcase classname="rent.UnitIntegrationTests" name="testSaveAndUpdate" time="0.031" />
+  <testcase classname="rent.UnitIntegrationTests" name="testSaveThenDelete" time="0.687" />
+  <testcase classname="rent.UnitIntegrationTests" name="testIncorrectSave" time="0.046" />
+  <testcase classname="rent.UnitIntegrationTests" name="testIncorrectSaveCorrected" time="0.033" />
+  <testcase classname="rent.UnitIntegrationTests" name="testSave" time="0.031" />
+  <system-out><![CDATA[--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testIncorrectSave--
+--Output from testIncorrectSaveCorrected--
+--Output from testSave--
+]]></system-out>
+  <system-err><![CDATA[--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testIncorrectSave--
+--Output from testIncorrectSaveCorrected--
+--Output from testSave--
+]]></system-err>
+</testsuite>

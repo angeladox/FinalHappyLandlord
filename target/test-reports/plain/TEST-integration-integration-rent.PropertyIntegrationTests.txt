@@ -1,0 +1,22 @@
+Testsuite: rent.PropertyIntegrationTests
+Tests run: 5, Failures: 0, Errors: 0, Time elapsed: 0.764 sec
+------------- Standard Output ---------------
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testIncorrectSave--
+--Output from testIncorrectSaveCorrected--
+--Output from testSave--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testSaveAndUpdate--
+--Output from testSaveThenDelete--
+--Output from testIncorrectSave--
+--Output from testIncorrectSaveCorrected--
+--Output from testSave--
+------------- ---------------- ---------------
+
+Testcase: testSaveAndUpdate took 0.468 sec
+Testcase: testSaveThenDelete took 0.14 sec
+Testcase: testIncorrectSave took 0.078 sec
+Testcase: testIncorrectSaveCorrected took 0.047 sec
+Testcase: testSave took 0.031 sec

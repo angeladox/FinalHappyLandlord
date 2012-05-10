@@ -1,0 +1,10 @@
+Testsuite: rent.UserTests
+Tests run: 1, Failures: 0, Errors: 0, Time elapsed: 0.436 sec
+------------- Standard Output ---------------
+--Output from testConstraints--
+------------- ---------------- ---------------
+------------- Standard Error -----------------
+--Output from testConstraints--
+------------- ---------------- ---------------
+
+Testcase: testConstraints took 0.421 sec
